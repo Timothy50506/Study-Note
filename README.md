@@ -22,7 +22,7 @@ Here are some categories related to data science and their sub-tasks.
 
 ## Time-Series Analysis
 - Statistical time-series analysis ( statsmodels )
-Facebook Prophet
+- Facebook Prophet
 
 ## Recommendation System
 - Graph embedding
