@@ -1,7 +1,7 @@
 # Study-Note
 Here are some categories related to data science and their sub-tasks.
 
-## Current Work ( Technical Debt )
+## Current Work
 - Temporal convolutional network for anomaly detection
 - BERT for imbalanced document classification
 
